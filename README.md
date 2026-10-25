@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   
   ![](profile-summary-card-output/nord_dark/0-profile-details.svg)
